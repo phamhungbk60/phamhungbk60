@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <a href="https://phamhungbk60.github.io/bouncing-ball-game/">
+    <img src="https://thanhdattech.net/wp-content/uploads/2018/09/game-khung-long-trem-chrome.gif" width="500"/>
+  </a>
+  <h1>welcome to my world ! </h1>
+</div>
 
 <!--
 **phamhungbk60/phamhungbk60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
