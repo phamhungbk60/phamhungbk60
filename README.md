@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <a href="https://phamhungbk60.github.io/bouncing-ball-game/">
-    <img src="<iframe src="https://giphy.com/embed/R1MlWX6NHdJogpH0HO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animation-compass-motiondesign-R1MlWX6NHdJogpH0HO">via GIPHY</a></p>" width="500"/>
+    <img src="<iframe src="https://giphy.com/gifs/animation-compass-motiondesign-R1MlWX6NHdJogpH0HO" width="500"/>
   </a>
   <h1>welcome to my world ! </h1>
 </div>
